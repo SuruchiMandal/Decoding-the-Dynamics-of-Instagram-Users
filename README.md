@@ -18,15 +18,6 @@ The project leverages the following tools and software:
 
 - **MySQL Workbench**: Used for database management, data extraction, and transformation.
 
-  
-## Project Structure
-
-The repository is organized as follows:
-
-- `data/`: Contains the dataset used for analysis (in SQL format).
-- `sql_queries.sql`: Includes SQL queries used to extract and manipulate data.
-- `README.md`: This file, providing an overview of the project.
-
 
 ## Contributions and Feedback
 
