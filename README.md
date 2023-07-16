@@ -4,7 +4,7 @@ This repository contains a data analysis project focused on understanding user e
 
 ## Project Overview
 
-The project utilizes SQL queries and data visualization techniques to analyze Instagram data and derive meaningful insights. The following aspects are explored:
+The project utilizes SQL queries to analyze Instagram data and derive meaningful insights. The following aspects are explored:
 
 - Rewarding loyal users based on their engagement
 - Encouraging inactive users to become active again
@@ -17,15 +17,14 @@ The project utilizes SQL queries and data visualization techniques to analyze In
 The project leverages the following tools and software:
 
 - **MySQL Workbench**: Used for database management, data extraction, and transformation.
-- **Tableau**: Employed for data visualization and creating interactive dashboards.
 
+  
 ## Project Structure
 
 The repository is organized as follows:
 
 - `data/`: Contains the dataset used for analysis (in SQL format).
 - `sql_queries.sql`: Includes SQL queries used to extract and manipulate data.
-- `visualizations/`: Contains visualizations created using Tableau.
 - `README.md`: This file, providing an overview of the project.
 
 
