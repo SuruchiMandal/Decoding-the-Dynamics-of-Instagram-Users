@@ -2,6 +2,8 @@
 
 This repository contains a data analysis project focused on understanding user engagement and behavior on Instagram. The goal is to provide valuable insights for marketing strategies and product development to enhance the platform's growth.
 
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-white?style=flat&logo=mysql&logoColor=white&color=red) 
+
 ## Project Overview
 
 The project utilizes SQL queries to analyze Instagram data and derive meaningful insights. The following aspects are explored:
@@ -16,7 +18,7 @@ The project utilizes SQL queries to analyze Instagram data and derive meaningful
 
 The project leverages the following tools and software:
 
-- **MySQL Workbench**: Used for database management, data extraction, and transformation.
+- ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-white?style=flat&logo=mysql&logoColor=white&color=red) Used for database management, data extraction, and transformation.
 
 
 ## Contributions and Feedback
